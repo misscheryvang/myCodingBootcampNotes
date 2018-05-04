@@ -51,8 +51,11 @@ Tab key (While typing a filename/folder name): Fills ou the filename if its ther
 
 ### Special Directories
 ~/ - user directory (User/cheryVang)
+
 ../ - One directory up (the parent directory)
+
 ./ - current directory
+
 / - root directory
 
 
