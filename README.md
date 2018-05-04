@@ -38,6 +38,25 @@ removes or deletes a file. Totally. Be careful
 ### rmdir <directory>
 removes or deletes a director
 
+### cp <target file> <destination file>
+Copies a file from target to destination
+
+### mv <target file> <destination file>
+Moves a file from target to destination
+
+### Cool Terminal Shortcuts:
+up key: goes to the previous command
+
+Tab key (While typing a filename/folder name): Fills ou the filename if its there and unique
+
+### Special Directories
+~/ - user directory (User/cheryVang)
+../ - One directory up (the parent directory)
+./ - current directory
+/ - root directory
+
+
+
 ### GIT Commands
 git clone  - copies an entire repo (to begin)
 git add     - adds a file for inclusion in GIT
@@ -58,3 +77,7 @@ git pull    - downloads the freshest version
 
 ### git status
 Tells you what state you are at
+
+### _If windows and you see this:_
+
+*Warning: CRLF will beconverted to LF*
